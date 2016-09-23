@@ -1,0 +1,8 @@
+### Git Commands	
+
+* `ls` - list files in current directory
+* `cd` - change directory
+	* `cd ..` - change directory, go one level up in previous directory 
+	* `cd /` - change to root directory 
+
+* `cmd k` - 
