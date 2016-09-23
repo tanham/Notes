@@ -17,6 +17,6 @@
 * `open {file name} -a{program name}` - open a file in a specific program
 * `open . ` - open current directory 
 
-
-`tab` - autocomplete 
-up/down arrows - previous commands 
+hot keys 
+* `tab` - autocomplete 
+* up/down arrows - previous commands 
