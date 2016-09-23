@@ -18,5 +18,5 @@
 * `open . ` - open current directory 
 
 
-`tab` - autocomplete 
-up/down arrows - previous commands 
+* `tab` - autocomplete 
+* up/down arrows - previous commands 
