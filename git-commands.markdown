@@ -11,3 +11,5 @@
 	* `git commit -m` - record changes and add message 
 * `git push` - update remote refs 
 * `git pull` - fetch from and intergrate with another repo or local branch 
+
+[More at Github Git Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
