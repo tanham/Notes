@@ -1,0 +1,20 @@
+### NPM 
+
+One of the most important things that npm does is install packages.
+
+NPM login 
+`npm adduser` - to add use 
+`npm whoami` - to see you are logged in as 
+
+
+package.json file - contains information about the project you want to build
+
+To install a module, use the `npm install <modulename>` command.
+
+`npm ls` - to list dependencies 
+
+`npm init` - edit package.json
+
+npm dist-tag add <pkg>@<version> [<tag>]
+         npm dist-tag rm <pkg> <tag>
+         npm dist-tag ls [<pkg>]
