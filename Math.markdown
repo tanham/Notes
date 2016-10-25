@@ -6,9 +6,13 @@
 returns the largest integer less than or equal to a given number
 
 ```Math.floor( 45.95); //  45```
+
 ```Math.floor( 45.05); //  45```
+
 ```Math.floor(  4   ); //   4```
+
 ```Math.floor(-45.05); // -46```
+
 ```Math.floor(-45.95); // -46```
 
 #### Math.ceil 
@@ -16,9 +20,13 @@ returns the largest integer less than or equal to a given number
 returns the smallest integer greater than or equal to a given number
 
 ```Math.ceil(4);      // 4```
+
 ```Math.ceil(7.004);  // 8```
+
 ```Math.ceil(-0.95);  // -0```
+
 ```Math.ceil(-4);     // -4```
+
 ```Math.ceil(-7.004); // -7```
 
 #### Math.round
@@ -26,9 +34,13 @@ returns the smallest integer greater than or equal to a given number
 returns the value of a number rounded to the nearest integer
 
 ```Math.round( 20.49); //  20```
+
 ```Math.round( 20.5);  //  21```
+
 ```Math.round( 42  );  //  42```
+
 ```Math.round(-20.5);  // -20```
+
 ```Math.round(-20.51); // -21```
 
 
