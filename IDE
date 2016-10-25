@@ -1,0 +1,8 @@
+# IDE - Integrated development environment 
+ a software application that provides comprehensive facilities to computer programmers for software development. An IDE normally consists of a source code editor, build automation tools and a debugger. Most modern IDEs have intelligent code completion. 
+
+ # Node Usage - ```node [options] [v8 options] [script.js | -e "script"] [arguments]```
+
+ # Node Command line [options](https://nodejs.org/api/cli.html#cli_command_line_options)
+
+  
