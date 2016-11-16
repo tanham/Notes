@@ -21,12 +21,15 @@ var max = function(list){
     
     return Math.max.apply(null, list);
 }
+```
+
+
+### Best Solution (on codewars):
+
 ```javascript
 const min = (list) => Math.min(...list);
 const max = (list) => Math.max(...list);
 ```
-
-### Best Solution (on codewars):
 
 ### references: 
 
