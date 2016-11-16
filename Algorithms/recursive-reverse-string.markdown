@@ -4,9 +4,9 @@ Your objective is to complete a recursive function reverse() that receives str a
 
 Rules:
 
-reverse function should be executed only N times. N = length of the input string
-helper functions are not allowed
-changing the signature of the function is not allowed
+* reverse function should be executed only N times. N = length of the input string
+* helper functions are not allowed
+* changing the signature of the function is not allowed
 
 ###Examples:
 
