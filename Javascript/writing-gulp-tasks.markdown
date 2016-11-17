@@ -12,6 +12,7 @@ The `gulp` variable is used to create a *gulp* task:
 gulp.task('task name goes here', function() {
 	// task code goes here...
 });
+```
 
 For example: 
 
