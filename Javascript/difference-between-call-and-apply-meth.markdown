@@ -10,3 +10,5 @@ The main difference between the two methods is the way they handle arguements.
 function.call(obj, 1, 2, 3);
 function.apply(obj, [1, 2, 3]); 
 ```
+
+From [**Enki**](https://www.enki.com/)

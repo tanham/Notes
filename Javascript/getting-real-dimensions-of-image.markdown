@@ -26,4 +26,4 @@ myImg.onload = function() {
 }
 ```
 
-[**Enki**](https://www.enki.com/)
+From [**Enki**](https://www.enki.com/)

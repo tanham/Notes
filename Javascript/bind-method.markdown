@@ -20,3 +20,5 @@ var add10 = sum.bind(null, 10);
 // binds a = 10 
 console.log(add10(10)); //20 
 ```
+
+From [**Enki**](https://www.enki.com/)
