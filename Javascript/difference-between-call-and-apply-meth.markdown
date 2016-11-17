@@ -7,6 +7,6 @@ The main difference between the two methods is the way they handle arguements.
 **Example** 
 
 ```javascript 
-function.cal(obj, 1, 2, 3);
+function.call(obj, 1, 2, 3);
 function.apply(obj, [1, 2, 3]); 
 ```
