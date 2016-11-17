@@ -3,7 +3,7 @@
 Common idiom: 
 
 ```javascript 
-var num = [1, 3, 2]
+var nums = [1, 3, 2]
 Math.max.apply(Math,nums) // 3 
 Math.min.apply(Math,nums) //1
 ```
