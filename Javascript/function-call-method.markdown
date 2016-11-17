@@ -15,8 +15,8 @@ function callObject(arg1, arg2) {
 	var str; 
 	str += "Object: " + this + ". ";
 	str += "Arguements: "
-	for (i in callObject.argument){
-		str += callObject.argement[i] + " "'	'
+	for (i in callObject.arguments){
+		str += callObject.arguments[i] + " ";
 	}
 	return str; 
 }  
