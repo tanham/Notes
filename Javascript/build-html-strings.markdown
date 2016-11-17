@@ -22,4 +22,4 @@ for(var i = 0; i < 100; i++) {
 ```
 
 
-[**Enki**](https://www.enki.com/)
+From [**Enki**](https://www.enki.com/)
