@@ -18,7 +18,7 @@ function getCount(str) {
 }
 ```
 
-### Best solution: 
+### Best solution (on codewars): 
 
 ```javascript
 function getCount(str) {

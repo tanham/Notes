@@ -16,6 +16,13 @@ function descendingOrder(num){
 }
 ```
 
+### Best soulation (on codewars): 
+
+```javascript 
+function descendingOrder(n){
+  return parseInt(String(n).split('').sort().reverse().join(''))
+}
+```
 
 ### references
 
