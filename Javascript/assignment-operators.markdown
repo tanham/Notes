@@ -15,3 +15,5 @@ for(i = 0; i < list.length); i++ {
 ```
 
 Other examples of assignment operators include `-=`, `*=`, `/=`, and `%=`. 
+
+From [**Enki**](https://www.enki.com/)

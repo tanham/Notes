@@ -16,3 +16,4 @@ Merge them, adding the second one after the first one:
 ```javascript 
 Array.prototype.push.apply(array1, array2); 
 ```  
+From [**Enki**](https://www.enki.com/)

@@ -19,4 +19,5 @@ The code snippet above will try to run `eval('5 + / 3');` which is a `SyntaxErro
 You can get the name of the error with `e.constructor.name`.
 
 In addition, if you think you can handle a specific exception, checking for it is easy: `e.constructor == SyntaxError`. 
- 
+
+From [**Enki**](https://www.enki.com/) 

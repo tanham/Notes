@@ -22,3 +22,5 @@ items.length; // returns 3
 ```
 
 The delete method should only be used to delete an object property. 
+
+From [**Enki**](https://www.enki.com/)
