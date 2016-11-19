@@ -2,9 +2,9 @@
 
 A *blob* object represents an "almost file" object of raw data. It represents data that      isn't in JavaScript's standard format. You use *FileReader* to read data from a blob. 
 
-To create a blob, use the bblob constructor: 
+To create a blob, use the blob constructor: 
 
-```javascipt
+```javascript
 var debug = {hello: "world"};
 var blob = ne Blob([
 	JSON.stringify(debug, null, 2)
