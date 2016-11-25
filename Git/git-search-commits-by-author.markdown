@@ -4,3 +4,4 @@ You can search for commits that were made by a particular author by using the `-
 
 This produces a filtered **log out** containing only the commits made by that author. 
 
+Source: [Enki App](https://enki.com)
